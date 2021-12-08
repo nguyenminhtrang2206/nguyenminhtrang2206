@@ -9,7 +9,7 @@
 <p align="center">
   <em>
     Terve, I am an <b>ICT student</b> from <a href="https://www.bc.fi/"> <b>Helsinki Business College</b>, Helsinki</a>. <br>
-    <b>I love designing visually appealing website</b> 
+    <b>I love designing visually appealing website.</b> 
   <br>
   <b><i align="center">My motto : "If plan A didn't work, the alphabet has 25 more letters”</i></b>
 </p>
