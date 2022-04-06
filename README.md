@@ -3,7 +3,7 @@
 <h3 align="center">UI/UX designer | Front-end developer </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/trangnguyen2206/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="my-personal-linkedin" height="30" width="30" /></a>  
-<a href="https://www.trangchang.com/" target="blank"><img src="https://img.icons8.com/clouds/100/000000/domain.png" alt="my-personal-website" height="30" width="30"/></a> 
+<a href="https://www.trangchang.com/" target="blank"><img src="https://img.icons8.com/stickers/100/000000/domain.png" alt="my-personal-website" height="30" width="30"/></a> 
   
 </p>
 </p>
